@@ -3,7 +3,7 @@
         'name' => 'sparkyfit/backend',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '3c6232bd242f0842fb803f390193831684c07c80',
+        'reference' => 'f5cda0d880fe36ddfed9af7dfea2581397e655b0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -792,7 +792,7 @@
         'sparkyfit/backend' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '3c6232bd242f0842fb803f390193831684c07c80',
+            'reference' => 'f5cda0d880fe36ddfed9af7dfea2581397e655b0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
